@@ -157,5 +157,6 @@
 <?php include '../includes/footer.php'; ?>
 <button id="scrollToTop" title="Wróć na górę">↑</button>
 <script src="/poradnia/script-fixed.js"></script>
+
 </body>
 </html>

@@ -1,7 +1,10 @@
 
 <header class="header">
   <div class="container nav-container">
+    
     <a href="/poradnia/home/index.php" class="logo"><img src="/poradnia/image/logo.png" alt="MediClinic" /></a>
+
+
     <nav class="main-nav">
       <a href="/poradnia/home/index.php">Strona Główna</a>
 

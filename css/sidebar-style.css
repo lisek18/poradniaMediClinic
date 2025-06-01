@@ -62,3 +62,30 @@
   border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.04);
 }
+@media (max-width: 768px) {
+  .profile-wrapper {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .profile-sidebar {
+    width: 100%;
+    position: relative;
+    top: auto;
+    margin-bottom: 2rem;
+    box-shadow: none;
+    border-radius: 8px;
+  }
+
+  .profile-sidebar a {
+    padding: 0.8rem 1.2rem;
+    font-size: 1rem;
+  }
+
+  .profile-main {
+    width: 100%;
+    padding: 1.5rem;
+    box-shadow: none;
+    border-radius: 8px;
+  }
+}
